@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <url>
+        <loc>/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>/zh/article/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>/zh/article/article-1.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>/zh/article/article-2.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>/zh/article/article-3.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>/zh/article/article-4.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>/zh/article/article-5.html</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>/en/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="/de/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="/it/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="/ko/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="/pt/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="/ru/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="/zh/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="/tw/"/>
+    </url>
+    <url>
+        <loc>/en/app/</loc>
+        <lastmod>2025-07-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="x-default" href="/en/app/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="/en/app/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="/de/app/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="/es/app/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="/fr/app/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="/it/app/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="/ja/app/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="/ko/app/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="/pt/app/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="/ru/app/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="/zh/app/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="/tw/app/"/>
+    </url>
+</urlset>
